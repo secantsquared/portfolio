@@ -19,7 +19,7 @@
     "react-helmet": "^5.2.0"
   },
   "devDependencies": {
-    "prettier": "^1.16.4"
+    "eslint-config-react-app": "^3.0.8"
   },
   "keywords": [
     "gatsby"
